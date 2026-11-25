@@ -18,7 +18,7 @@ I’m a Computer Science graduate specializing in cybersecurity. My projects and
 
 ## 📱 Mobile app
 
-**PanelVerse** (private repository) is an Android and iOS app for reading manga and comics. It includes reading lists, progress tracking, and an offline library that supports CBZ imports.
+**PanelVerse** is an Android and iOS app for reading manga and comics. It includes reading lists, progress tracking, and an offline library that supports CBZ imports. The source repository is private. [View PanelVerse releases](https://github.com/Hazemserry90/panelverse-releases).
 
 ## 📂 Public repositories
 
